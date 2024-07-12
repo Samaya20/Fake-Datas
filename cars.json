@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "model": "Model S",
+    "vendor": "Tesla",
+    "price": 79999,
+    "imageUrl": "https://w7.pngwing.com/pngs/711/596/png-transparent-tesla-model-s-tesla-motors-car-tesla-model-x-tesla-compact-car-sedan-headlamp.png"
+  },
+  {
+    "id": 2,
+    "model": "Civic",
+    "vendor": "Honda",
+    "price": 22999,
+    "imageUrl": "https://w7.pngwing.com/pngs/801/997/png-transparent-2017-honda-civic-2018-honda-civic-honda-city-honda-today-honda-compact-car-glass-sedan.png"
+  },
+  {
+    "id": 3,
+    "model": "Mustang",
+    "vendor": "Ford",
+    "price": 55999,
+    "imageUrl": "https://w7.pngwing.com/pngs/389/921/png-transparent-2018-ford-mustang-shelby-mustang-car-ford-motor-company-car-blue-car-computer-wallpaper.png"
+  },
+  {
+    "id": 4,
+    "model": "Camry",
+    "vendor": "Toyota",
+    "price": 24999,
+    "imageUrl": "https://w7.pngwing.com/pngs/244/382/png-transparent-2018-toyota-camry-toyota-camry-hybrid-car-toyota-compact-car-sedan-car.png"
+  },
+  {
+    "id": 5,
+    "model": "A4",
+    "vendor": "Audi",
+    "price": 39999,
+    "imageUrl": "https://w7.pngwing.com/pngs/108/200/png-transparent-2013-audi-a4-2010-audi-a4-2015-audi-a4-2014-audi-a4-a4-sedan-car-automatic-transmission.png"
+  }
+]
